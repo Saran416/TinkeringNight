@@ -6,7 +6,7 @@ def remove_waste(input_file, output_file):
     content_without_braces = content.replace('{', '').replace('}', '').replace('"','').replace(":").replace("\"test\"",'')
 
     with open(output_file, 'w') as file:
-        file.write(content_without_braces)
+        file.write(content_without_braces)  
 
 
 
