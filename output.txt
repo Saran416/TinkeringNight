@@ -1,0 +1,24 @@
+Please download the model from https://github.com/alphacep/vosk-api/blob/master/doc/models.md and unpack as 'model' in the current folder.
+Please download the model from https://github.com/alphacep/vosk-api/blob/master/doc/models.md and unpack as 'model' in the current folder.
+Please download the model from https://github.com/alphacep/vosk-api/blob/master/doc/models.md and unpack as 'model' in the current folder.
+{
+  "text" : "hello hello hello should work not allow and just a little"
+}
+{
+  "text" : "jill get chilly"
+}
+{
+  "text" : "below be gaffe jr junior are delivered to live tell you have her"
+}
+{
+  "text" : "leap hello my name is that i'm gonna lot"
+}
+{
+  "text" : "sudden is gay good and then"
+}
+{
+  "text" : "please include him ten it said it is get good at a morgue"
+}
+{
+  "text" : "ave this them when the who say they're back or make a political to a school he the you get getting money"
+}
