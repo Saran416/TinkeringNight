@@ -1,7 +1,10 @@
 import speech_recognition as sr
 import pyttsx3
-import sounddevice
 import TextRefiner
+import NLP
+import pyautogui
+import cv2
+import numpy as np
 
 #initialize recognizer 
 r = sr.Recognizer()
@@ -50,5 +53,14 @@ while(1):
     input_file = 'output.txt'
     output_file = 'final.txt'
 
+
     TextRefiner.remove_waste(input_file,output_file)
+
+    if(NLP.isSimilar()):
+        #take screenshot
+        image = pyautogui.screenshot() 
+        image = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR) 
+        # writing it to the disk using opencv 
+        cv2.imwrite("image1.png", image)
+    
     
