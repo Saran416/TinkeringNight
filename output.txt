@@ -1,24 +1,30 @@
-Please download the model from https://github.com/alphacep/vosk-api/blob/master/doc/models.md and unpack as 'model' in the current folder.
-Please download the model from https://github.com/alphacep/vosk-api/blob/master/doc/models.md and unpack as 'model' in the current folder.
-Please download the model from https://github.com/alphacep/vosk-api/blob/master/doc/models.md and unpack as 'model' in the current folder.
 {
-  "text" : "hello hello hello should work not allow and just a little"
+  "text" : "i know why didn't they hello hello hello hello"
 }
 {
-  "text" : "jill get chilly"
+  "text" : "hello hello hello hello hello and nobody a know i know about hello hello"
 }
 {
-  "text" : "below be gaffe jr junior are delivered to live tell you have her"
+  "text" : "funny how you know my colleague"
 }
 {
-  "text" : "leap hello my name is that i'm gonna lot"
+  "text" : "we wouldn't"
 }
 {
-  "text" : "sudden is gay good and then"
+  "text" : "if we then there are going to you is they can be seen lots of speech"
 }
 {
-  "text" : "please include him ten it said it is get good at a morgue"
+  "text" : "six hundred kbps has don't know"
 }
 {
-  "text" : "ave this them when the who say they're back or make a political to a school he the you get getting money"
+  "text" : "okay ready to leave it up or whatever"
+}
+{
+  "text" : "yeah to do"
+}
+{
+  "text" : "now what am i giving people i know that think that the name wasn't enough clinton"
+}
+{
+  "text" : "credit where are we have a guy"
 }
